@@ -1,1 +1,3 @@
-# Exporacion de datos abiertos publicados por el Instituto Nacional de Colonizacion
+# Exporacion de datos - INC
+
+En este notebook intento explorar los csv's que publicaron del Instito Nacional de Colonizacion
